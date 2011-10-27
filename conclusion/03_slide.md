@@ -19,5 +19,5 @@
 # Thank you! Goodbye! #
 
 * @rrees
-* .heroku.com
-* http://yesnosql.appspot.com
+* [documents-and-graphs.heroku.com](documents-and-graphs.heroku.com)
+* [http://yesnosql.appspot.com](http://yesnosql.appspot.com)
