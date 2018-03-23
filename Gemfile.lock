@@ -67,6 +67,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  rack
   showoff
 
 BUNDLED WITH
